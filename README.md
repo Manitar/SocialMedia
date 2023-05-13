@@ -1,5 +1,5 @@
-Social Media
-Social media made with MERN stack.
+
+Social media website made with MERN stack.
 
 Instructions on how to run:
 
@@ -8,8 +8,8 @@ Terminal 1: In client folder.
 Terminal 2: In server folder.
 
 Server Terminal: 
-Type ```bash nodemon index.js ```
+Type ```bash nodemon index.js```
 
 
 Client Terminal: 
-Type ```bash npm run start ```
+Type ```bash npm run start```
