@@ -8,8 +8,8 @@ Terminal 1: In client folder.
 Terminal 2: In server folder.
 
 Server Terminal: 
-Type ```bash nodemon index.js```
+Type ```nodemon index.js```
 
 
 Client Terminal: 
-Type ```bash npm run start```
+Type ```npm run start```
